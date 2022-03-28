@@ -1,2 +1,2 @@
-devops is a methodadology it have bunch of tools
-file3 edited in master branchi
+devops is a methodadology it have bunch of too
+edited in newbranch file3
