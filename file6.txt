@@ -1,1 +1,2 @@
 this is file 6 created by github git-lerning master
+change in new branch file 6
